@@ -1,0 +1,11 @@
+{
+  "itemGroup.rangedpumps": "Ranged Pumps",
+  "block.rangedpumps.pump": "Pumpa",
+  "block.rangedpumps.pump.state": "%d mB / %s - %d / %d FE",
+  "block.rangedpumps.pump.state_empty": "Üres - %d / %d FE",
+  "block.rangedpumps.pump.state.energy": "Nincs elegendő energia.",
+  "block.rangedpumps.pump.state.redstone": "Nem működik a redstone jel miatt.",
+  "block.rangedpumps.pump.state.working": "Beolvasás itt: %d, %d, %d (hatótávolság: %d).",
+  "block.rangedpumps.pump.state.full": "A belső tartály megtelt.",
+  "block.rangedpumps.pump.state.done": "Kész."
+}
