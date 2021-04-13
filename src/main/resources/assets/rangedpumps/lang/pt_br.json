@@ -1,0 +1,11 @@
+{
+  "itemGroup.rangedpumps": "Ranged Pumps",
+  "block.rangedpumps.pump": "Bomba",
+  "block.rangedpumps.pump.state": "%d mB of %s - %d / %d FE",
+  "block.rangedpumps.pump.state_empty": "Vazio - %d / %d FE",
+  "block.rangedpumps.pump.state.energy": "Energia Insuficiente.",
+  "block.rangedpumps.pump.state.redstone": "Sem funcionar devido ao sinal de Redstone.",
+  "block.rangedpumps.pump.state.working": "Escaneando em %d, %d, %d (alcance: %d).",
+  "block.rangedpumps.pump.state.full": "Tanque interno está cheio.",
+  "block.rangedpumps.pump.state.done": "Completo."
+}
